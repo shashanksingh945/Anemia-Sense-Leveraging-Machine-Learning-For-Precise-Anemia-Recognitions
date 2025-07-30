@@ -11,7 +11,7 @@ Machine learning algorithms in Anemiasense can analyze diverse patient data, inc
 ## Scenario 3: Remote Monitoring and Follow-Up
 Anemiasense supports remote monitoring of patients with anemia through wearable devices or digital health platforms. Machine learning algorithms continuously analyze real-time data such as hemoglobin levels, activity levels, and medication adherence to provide insights to both patients and healthcare providers. This remote monitoring capability facilitates proactive management, enables timely adjustments to treatment regimens, and reduces the need for frequent in-person visits, particularly beneficial for patients in rural or underserved areas.
 
-#Project Flow
+# Project Flow
 
 User interacts with the UI to enter the input. Entered input is analyzed by the model which is integrated. Once the model analyses the input the prediction is showcased on the UI 
 
